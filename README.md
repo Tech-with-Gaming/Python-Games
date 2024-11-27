@@ -10,7 +10,7 @@
 
 **3. Rock Paper Scisscors (rps.py):** It is The Classic Rock Paper Scissors Game that you can play with the computer. You must score Points and beat the Computer. Good Luck!
 
-**4. Unscramble (unscramble.py):** You have to Unscramble the words to make a Word that makes Sense. There is a Pre-Defined List of Words you can Edit and Modify the List as you want.
+**4. Unscramble (scramble.py):** You have to Unscramble the words to make a Word that makes Sense. There is a Pre-Defined List of Words you can Edit and Modify the List as you want.
 
 **5. Tic Tac Toe (ttt.py):** The Famous and the Legendary Game which you can play with the Computer. 
 
